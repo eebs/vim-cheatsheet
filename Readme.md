@@ -3,7 +3,7 @@
 I'm learning vim, this will help me learn vim. Yay vim!
 
 
-## Basic commands
+## Commands
 
 - `x` Delete character under cursor
 - `A` Append to end of line
@@ -14,3 +14,9 @@ I'm learning vim, this will help me learn vim. Yay vim!
 - `CTRL-R` Redo
 - `0` Move to beginning of the line
 - `$` Move to the end of the line
+- `f` Find in line, e.g. `f x` to go to the next `x`
+- `t` Until the given character
+- `;` Repeat previous command moving forward
+- `,` Repeat previous command moving backward
+- `H, M, L` High, Middle, Low for moving around the page
+- `CTRL-u, CTRL-d` Move by half screens Up and Down
