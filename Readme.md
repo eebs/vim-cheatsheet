@@ -2,6 +2,7 @@
 
 I'm learning vim, this will help me learn vim. Yay vim!
 
+Break these out into different groups, this list is getting too long!
 
 ## Commands
 
@@ -20,3 +21,5 @@ I'm learning vim, this will help me learn vim. Yay vim!
 - `,` Repeat previous command moving backward
 - `H, M, L` High, Middle, Low for moving around the page
 - `CTRL-u, CTRL-d` Move by half screens Up and Down
+- `gg` Go to first line in the file
+- `G` Go to last line in the file
